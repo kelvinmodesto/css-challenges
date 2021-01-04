@@ -1,5 +1,5 @@
 <h2 align="center">
-    <b>🚀 30 Days - CSS Challenge 🚀</b>  
+    <b>🚀 30 Days - CSS Challenges 🚀</b>  
     <br><br>
  
  <p align="center">
@@ -75,8 +75,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 01" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_01.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_01)
-
 <br>
 
 <a id="day02"></a>
@@ -86,8 +84,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 02" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_02.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_02)
 
 <br>
 
@@ -99,8 +95,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 03" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_03.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_03)
-
 <br>
 
 <a id="day04"></a>
@@ -110,8 +104,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 04" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_04.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_04)
 
 <br>
 
@@ -123,8 +115,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 05" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_05.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_05)
-
 <br>
 
 <a id="day06"></a>
@@ -134,8 +124,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 06" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_06.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_06)
 
 <br>
 
@@ -147,8 +135,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 07" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_07.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_07)
-
 <br>
 
 <a id="day08"></a>
@@ -158,8 +144,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 08" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_08.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_08)
 
 <br>
 
@@ -171,8 +155,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 09" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_09.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_09)
-
 <br>
 
 <a id="day10"></a>
@@ -182,8 +164,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 10" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_10.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_10)
 
 <br>
 
@@ -195,8 +175,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 11" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_11.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_11)
-
 <br>
 
 <a id="day12"></a>
@@ -206,8 +184,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 12" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_12.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_12)
 
 <br>
 
@@ -219,8 +195,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 13" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_13.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_13)
-
 <br>
 
 <a id="day14"></a>
@@ -231,16 +205,12 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 14" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_14.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_14)
-
 <br>
 <strong>Versão 2</strong>
 
 <h1 align="center">
     <img alt="Day 14" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_14_2.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_14_2)
 
 <br>
 
@@ -252,8 +222,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 15" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_15.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_15)
-
 <br>
 
 <a id="day16"></a>
@@ -263,8 +231,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 16" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_16_basic.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_16)
 
 <br>
 
@@ -276,8 +242,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 17" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_17.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_17)
-
 <br>
 
 <a id="day18"></a>
@@ -288,16 +252,12 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 18" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_18.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_18)
-
 <br>
 <strong>Versão 2</strong>
 
 <h1 align="center">
     <img alt="Day 18" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_18_2.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_18_2)
 
 <br>
 
@@ -309,8 +269,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 19" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_19.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_19)
-
 <br>
 
 <a id="day20"></a>
@@ -320,8 +278,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 20" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_20.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_20)
 
 <br>
 
@@ -333,8 +289,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 21" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_21.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_21)
-
 <br>
 
 <a id="day22"></a>
@@ -344,8 +298,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 22" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_22.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_22)
 
 <br>
 
@@ -357,8 +309,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 23" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_23.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_23)
-
 <br>
 
 <a id="day24"></a>
@@ -368,8 +318,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 24" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_24.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_24)
 
 <br>
 
@@ -381,8 +329,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 25" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_25.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_25)
-
 <br>
 
 <a id="day26"></a>
@@ -392,8 +338,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 26" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_26.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_26)
 
 <br>
 
@@ -405,8 +349,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 27" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_27.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_27)
-
 <br>
 
 <a id="day28"></a>
@@ -416,8 +358,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 28" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_28.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_28)
 
 <br>
 
@@ -429,8 +369,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
     <img alt="Day 29" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_29.gif" width="900px">
 </h1>
 
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_29)
-
 <br>
 
 <a id="day30"></a>
@@ -440,8 +378,6 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <h1 align="center">
     <img alt="Day 30" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_30.gif" width="900px">
 </h1>
-
-[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_30)
 
 ---
 
