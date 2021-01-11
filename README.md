@@ -4,7 +4,7 @@
  
  <p align="center">
     <img src="https://img.shields.io/badge/tech-front--end-brightgreen" />
-    <img src="https://img.shields.io/badge/auth-Mitsu325-orange" />
+    <img src="https://img.shields.io/badge/auth-kelvinmodesto-orange" />
 </h2>
 
 <br>
