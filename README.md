@@ -15,9 +15,12 @@
 - [🧐 Sobre o desafio](#-sobre-o-desafio)
 - [📢 Regras gerais](#-regras-gerais)
 - [🎉 Resultado](#-resultado)
-  - [Day 01 - Ícone de mídias sociais em camadas](#day-01---ícone-de-mídias-sociais-em-camadas)
+	- [Day 01 - Ícone de mídias sociais em camadas](#day-01---ícone-de-mídias-sociais-em-camadas)
+	- [Day 02 - Loader animado](#day-02---loader-animado)
+- [<br>](#)
 
 <br>
+
 <a id="sobre"></a>
 
 ## 🧐 Sobre o desafio
@@ -44,11 +47,20 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 ### Day 01 - Ícone de mídias sociais em camadas
 
 <h1 align="center">
-    <img alt="Day 01" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_01.gif" width="900px">
+	<img alt="Day 01" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_01.gif" width="900px">
 </h1>
 
 <br>
 
+<a id="day02"></a>
+
+### Day 02 - Loader animado
+
+<h1 align="center">
+	<img alt="Day 02" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_02.gif" width="900px">
+</h1>
+
+<br>
 ---
 
 <h4 align="center">
