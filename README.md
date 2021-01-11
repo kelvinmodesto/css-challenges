@@ -17,6 +17,7 @@
 - [🎉 Resultado](#-resultado)
 	- [Day 01 - Ícone de mídias sociais em camadas](#day-01---ícone-de-mídias-sociais-em-camadas)
 	- [Day 02 - Loader animado](#day-02---loader-animado)
+	- [Day 03 - Mudança de cor no texto](#day-03---mudança-de-cor-no-texto)
 - [<br>](#)
 
 <br>
@@ -58,6 +59,16 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 <h1 align="center">
 	<img alt="Day 02" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_02.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day03"></a>
+
+### Day 03 - Mudança de cor no texto
+
+<h1 align="center">
+	<img alt="Day 03" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_03.gif" width="900px">
 </h1>
 
 <br>
