@@ -45,12 +45,12 @@ h2 {
 
 .btn::after, .btn::before {
 	content: "";
-	width: 12px;
+	width: 14px;
 	position: absolute;
 	height: 4px;
-	transition: .4s ease;
+	transition: .5s ease;
 	background: #281a43;
-	transform: skewX(45deg);
+	transform: skewX(50deg);
 }
 
 .btn::before {
@@ -63,10 +63,10 @@ h2 {
 	right: 10%;
 }
 
-.btn:hover::after {
+.btn:hover::before {
 	left: 80%;
 }
 
-.btn:hover::before {
+.btn:hover::after {
 	right: 80%;
 }
