@@ -19,6 +19,10 @@
 	- [Day 02 - Loader animado](#day-02---loader-animado)
 	- [Day 03 - Mudança de cor no texto](#day-03---mudança-de-cor-no-texto)
 	- [Day 04 - Botão animado](#day-04---botão-animado)
+	- [Day 05 - Efeito pulsar](#day-05---efeito-pulsar)
+	- [Day 06 - Efeito lightning text](#day-06---efeito-lightning-text)
+	- [Day 07 - Preloader animado](#day-07---preloader-animado)
+	- [Day 08 - Coração batendo](#day-08---coração-batendo)
 - [<br>](#)
 
 <br>
@@ -80,6 +84,46 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 <h1 align="center">
     <img alt="Day 04" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_04.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day05"></a>
+
+### Day 05 - Efeito pulsar
+
+<h1 align="center">
+    <img alt="Day 05" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_05.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day06"></a>
+
+### Day 06 - Efeito lightning text
+
+<h1 align="center">
+    <img alt="Day 06" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_06.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day07"></a>
+
+### Day 07 - Preloader animado
+
+<h1 align="center">
+    <img alt="Day 07" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_07.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day08"></a>
+
+### Day 08 - Coração batendo
+
+<h1 align="center">
+    <img alt="Day 08" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_08.gif" width="900px">
 </h1>
 
 <br>
