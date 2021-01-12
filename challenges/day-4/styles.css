@@ -28,4 +28,45 @@ h2 {
 	color: #ac0fee;
 }
 
-/* animation */
+/* button */
+
+.btn {
+	width: 200px;
+	height: 60px;
+	background: transparent;
+	font-size: 1.2rem;
+	border: 4px solid;
+	cursor: pointer;
+	border-radius: 8px;
+	color: #f99094;
+	position: relative;
+	font-family: 'Sansita Swashed', cursive;
+}
+
+.btn::after, .btn::before {
+	content: "";
+	width: 12px;
+	position: absolute;
+	height: 4px;
+	transition: .4s ease;
+	background: #281a43;
+	transform: skewX(45deg);
+}
+
+.btn::before {
+	top: -4px;
+	left: 10%;
+}
+
+.btn::after {
+	bottom: -4px;
+	right: 10%;
+}
+
+.btn:hover::after {
+	left: 80%;
+}
+
+.btn:hover::before {
+	right: 80%;
+}
