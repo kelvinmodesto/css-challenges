@@ -23,8 +23,7 @@
 	- [Day 06 - Efeito lightning text](#day-06---efeito-lightning-text)
 	- [Day 07 - Preloader animado](#day-07---preloader-animado)
 	- [Day 08 - Coração batendo](#day-08---coração-batendo)
-- [<br>](#)
-
+	- [Day 09 - Pêndulo de Newton](#day-09---pêndulo-de-newton)
 <br>
 
 <a id="sobre"></a>
@@ -127,6 +126,17 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 <br>
+
+<a id="day09"></a>
+
+### Day 09 - Pêndulo de Newton
+
+<h1 align="center">
+    <img alt="Day 09" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_09.gif" width="900px">
+</h1>
+
+<br>
+
 ---
 
 <h4 align="center">
