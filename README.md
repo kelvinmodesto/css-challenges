@@ -24,6 +24,7 @@
 	- [Day 07 - Preloader animado](#day-07---preloader-animado)
 	- [Day 08 - Coração batendo](#day-08---coração-batendo)
 	- [Day 09 - Pêndulo de Newton](#day-09---pêndulo-de-newton)
+	- [Day 10 - Animação texto alternando](#day-10---animação-texto-alternando)
 <br>
 
 <a id="sobre"></a>
@@ -133,6 +134,16 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 <h1 align="center">
     <img alt="Day 09" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_09.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day10"></a>
+
+### Day 10 - Animação texto alternando
+
+<h1 align="center">
+    <img alt="Day 10" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_10.gif" width="900px">
 </h1>
 
 <br>
