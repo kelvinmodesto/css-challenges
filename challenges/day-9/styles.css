@@ -8,4 +8,66 @@
 body {
 	height: 100vh;
 	width: 100%;
+	background: #facc74;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.pendulum {
+	width: 400px;
+	border-top: 12px solid #005d6f;
+	display: flex;
+	justify-content: space-around;
+}
+
+.pendulum span {
+	width: 3px;
+	height: 300px;
+	background-color: #9fb0c0;
+	display: block;
+	position: relative;
+	transform-origin: top;
+}
+
+.pendulum span::before {
+	content: ' ';
+	width: 80px;
+	height: 80px;
+	background-color: #9fb0c0;
+	box-shadow: 0 2px 4px #999999;
+	position: absolute;
+	bottom: 0;
+	border-radius: 50%;
+	left: -40px;
+}
+
+.pendulum span:first-child {
+	animation: move-left 2s ease-in infinite;
+}
+
+.pendulum span:last-child {
+	animation: move-right 2s ease-in infinite;
+}
+
+/* animation */
+
+@keyframes move-left {
+	0% { transform: rotate(0deg); }
+			
+	25% { transform: rotate(60deg); }
+	
+	50% { transform: rotate(0deg); }
+
+	100% { transform: rotate(0deg); }
+}
+
+@keyframes move-right {
+	0% { transform: rotate(0deg); }
+			
+	25% { transform: rotate(-60deg); }
+	
+	50% { transform: rotate(0deg); }
+
+	100% { transform: rotate(0deg); }
 }
