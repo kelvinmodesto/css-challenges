@@ -26,6 +26,7 @@
 	- [Day 09 - Pêndulo de Newton](#day-09---pêndulo-de-newton)
 	- [Day 10 - Animação texto alternando](#day-10---animação-texto-alternando)
 	- [Day 11 - Botão animado #2](#day-11---botão-animado-2)
+	- [Day 12 - Efeito de preenchimento](#day-12---efeito-de-preenchimento)
 <br>
 
 <a id="sobre"></a>
@@ -158,6 +159,17 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 <br>
+
+<a id="day12"></a>
+
+### Day 12 - Efeito de preenchimento
+
+<h1 align="center">
+    <img alt="Day 12" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_12.gif" width="900px">
+</h1>
+
+<br>
+
 
 ---
 
