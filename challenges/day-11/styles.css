@@ -8,4 +8,52 @@
 body {
 	height: 100vh;
 	width: 100%;
+	background: #e9e2dc;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+h2 {
+	color: #15161a;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.8rem;
+	margin-bottom: 80px;
+}
+
+.btn {
+	width: 200px;
+	height: 60px;
+	cursor: pointer;
+	font-family: 'Raleway', sans-serif;
+	background: transparent;
+	font-size: 1.2rem;
+	position: relative;
+	box-shadow: 0 2px 4px #999999;
+	border-radius: 8px;
+	overflow: hidden;
+	transition-duration: 0.5s;
+	color: #63432d;
+}
+
+.btn:hover {
+	color: #e9e2dc;
+}
+
+.btn::after {
+	content: ' ';
+	background: #63432d;
+	transition-duration: 0.5s;
+	height: 0;
+	width: 100%;
+	position: absolute;
+	border-radius: 0 0 50% 50%;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.btn:hover::after {
+	height: 100px;
 }
