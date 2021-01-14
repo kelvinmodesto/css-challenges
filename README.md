@@ -27,6 +27,24 @@
 	- [Day 10 - Animação texto alternando](#day-10---animação-texto-alternando)
 	- [Day 11 - Botão animado #2](#day-11---botão-animado-2)
 	- [Day 12 - Efeito de preenchimento](#day-12---efeito-de-preenchimento)
+	- [Day 13 - Loading com efeito](#day-13---loading-com-efeito)
+	- [Day 14 - Fundo de texto animado](#day-14---fundo-de-texto-animado)
+	- [Day 15 - Texto flutuante](#day-15---texto-flutuante)
+	- [Day 16 - Botão animado #3](#day-16---botão-animado-3)
+	- [Day 17 - Loading animado](#day-17---loading-animado)
+	- [Day 18 - Texto esfumaçado](#day-18---texto-esfumaçado)
+	- [Day 19 - Fundo de partículas animadas](#day-19---fundo-de-partículas-animadas)
+	- [Day 20 - Botão animado #4](#day-20---botão-animado-4)
+	- [Day 21 - Esferas quicando](#day-21---esferas-quicando)
+	- [Day 22 - Ícones com efeito](#day-22---ícones-com-efeito)
+	- [Day 23 - Botão animado #5](#day-23---botão-animado-5)
+	- [Day 24 - Preloader animado](#day-24---preloader-animado)
+	- [Day 25 - Checkbox animado](#day-25---checkbox-animado)
+	- [Day 26 - Loader animado](#day-26---loader-animado)
+	- [Day 27 - Efeito pulsar #2](#day-27---efeito-pulsar-2)
+	- [Day 28 - Background color change](#day-28---background-color-change)
+	- [Day 29 - Barra de navegação responsiva](#day-29---barra-de-navegação-responsiva)
+	- [Day 30 - Fogos de artifício](#day-30---fogos-de-artifício)
 <br>
 
 <a id="sobre"></a>
@@ -170,6 +188,185 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 <br>
 
+<a id="day13"></a>
+
+### Day 13 - Loading com efeito
+
+<h1 align="center">
+    <img alt="Day 13" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_13.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day14"></a>
+
+### Day 14 - Fundo de texto animado
+
+<h1 align="center">
+    <img alt="Day 14" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_14.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day15"></a>
+
+### Day 15 - Texto flutuante
+
+<h1 align="center">
+    <img alt="Day 15" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_15.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day16"></a>
+
+### Day 16 - Botão animado #3
+
+<h1 align="center">
+    <img alt="Day 16" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_16_basic.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day17"></a>
+
+### Day 17 - Loading animado
+
+<h1 align="center">
+    <img alt="Day 17" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_17.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day18"></a>
+
+### Day 18 - Texto esfumaçado
+
+<h1 align="center">
+    <img alt="Day 18" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_18.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_18)
+
+<br>
+
+<a id="day19"></a>
+
+### Day 19 - Fundo de partículas animadas
+
+<h1 align="center">
+    <img alt="Day 19" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_19.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day20"></a>
+
+### Day 20 - Botão animado #4
+
+<h1 align="center">
+    <img alt="Day 20" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_20.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day21"></a>
+
+### Day 21 - Esferas quicando
+
+<h1 align="center">
+    <img alt="Day 21" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_21.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day22"></a>
+
+### Day 22 - Ícones com efeito
+
+<h1 align="center">
+    <img alt="Day 22" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_22.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day23"></a>
+
+### Day 23 - Botão animado #5
+
+<h1 align="center">
+    <img alt="Day 23" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_23.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day24"></a>
+
+### Day 24 - Preloader animado
+
+<h1 align="center">
+    <img alt="Day 24" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_24.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day25"></a>
+
+### Day 25 - Checkbox animado
+
+<h1 align="center">
+    <img alt="Day 25" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_25.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day26"></a>
+
+### Day 26 - Loader animado
+
+<h1 align="center">
+    <img alt="Day 26" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_26.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day27"></a>
+
+### Day 27 - Efeito pulsar #2
+
+<h1 align="center">
+    <img alt="Day 27" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_27.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day28"></a>
+
+### Day 28 - Background color change
+
+<h1 align="center">
+    <img alt="Day 28" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_28.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day29"></a>
+
+### Day 29 - Barra de navegação responsiva
+
+<h1 align="center">
+    <img alt="Day 29" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_29.gif" width="900px">
+</h1>
+
+<br>
+
+<a id="day30"></a>
+
+### Day 30 - Fogos de artifício
+
+<h1 align="center">
+    <img alt="Day 30" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_30.gif" width="900px">
+</h1>
 
 ---
 
