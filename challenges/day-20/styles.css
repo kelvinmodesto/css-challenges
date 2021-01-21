@@ -8,4 +8,52 @@
 body {
 	height: 100vh;
 	width: 100%;
+	background: #15161a;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+h2 {
+	color: #e9e2dc;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.8rem;
+	margin-bottom: 80px;
+}
+
+.btn {
+	font-family: 'Raleway', sans-serif;
+	color: #09f7f2;
+	background: transparent;
+	width: 400px;
+	height: 80px;
+	font-size: 2.5rem;
+	cursor: pointer;
+	text-shadow: 0 0 4px #09f7f2;
+	border-radius: 8px;
+	letter-spacing: .4rem;
+	overflow: hidden;
+	position: relative;
+	border: 2px solid #09f7f2;
+	box-shadow: 0 0 8px #09f7f2, 0 0 24px #1b0df6;
+}
+
+.btn::after {
+	content: ' ';
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 40%;
+	background-color: #ffffff;
+	transition: 1s;
+	transform: translateX(-100%) rotate(45deg);
+	top: 0;
+	left: 0;
+	position: absolute;
+}
+
+.btn:hover::after {
+	transform: translateX(100%) rotate(45deg);
 }
