@@ -8,4 +8,39 @@
 body {
 	height: 100vh;
 	width: 100%;
+	background: #f1f5f6;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+ul {
+	color: #309dc3;
+	font-family: 'Piazzolla', serif;
+	display: flex;
+	margin: 0;
+	padding: 0;
+	font-size: 7rem;
+	cursor: pointer;
+}
+
+li {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: 2s;
+	transition-delay: calc(.2s * var(--i));
+}
+
+img {
+	height: 500px;
+	margin-top: 200px;
+}
+
+ul:hover li {
+	transform: rotate(45deg) translateY(-200px);
+	opacity: 0;
+	filter: blur(20px);
 }
