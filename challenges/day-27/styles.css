@@ -8,4 +8,47 @@
 body {
 	height: 100vh;
 	width: 100%;
+	background: #161616;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.pulse {
+	width: 120px;
+	height: 120px;
+	color: #ffffff;
+	text-shadow: 0 0 8px #fff;
+	background: #4cda64;
+	text-align: center;
+	font-size: 3rem;
+	line-height: 120px;
+	border-radius: 50%;
+	box-shadow: 0 0 12px #4cda64;
+	position: relative;
+}
+
+.pulse:before, 
+.pulse:after {
+	content: '';
+	border: 1px solid #4cda64;
+	border-radius: 50%;
+	position: absolute;
+	left: -20px;
+	right: -20px;
+	top: -20px;
+	bottom: -20px;
+	animation: pulse 1.5s linear infinite;
+}
+
+.pulse:after {
+	animation-delay: 0.5s;
+}
+
+@keyframes pulse {
+	0% { transform: scale(0.5); opacity: 0 }
+
+	50% { transform: scale(1); opacity: 1 }
+
+	100% { transform: scale(1.2); opacity: 0 }
 }
