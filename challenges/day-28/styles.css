@@ -8,4 +8,29 @@
 body {
 	height: 100vh;
 	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #10d9e0;
+	animation: change-color 5s linear infinite;
+}
+
+h1 {
+	color: #ffffff;
+	font-family: 'Sora', sans-serif;
+	font-size: 8rem;
+	text-align: center;
+	text-shadow: 0 0 8px #fff, 10px 12px 0 rgba(0,0,0,.1);
+}
+
+@keyframes change-color {
+	0%  {background: linear-gradient( 135deg, #FCCF31 10%, #F55555 100%); }
+
+	25% {background: linear-gradient( 135deg, #FFF6B7 10%, #F6416C 100%); }
+
+	50% {background: linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%); }
+
+	75% {background: linear-gradient( 135deg, #43CBFF 10%, #9708CC 100%); }
+
+	100% {background: linear-gradient( 135deg, #79F1A4 10%, #0E5CAD 100%); }
 }
